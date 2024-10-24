@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node15" apprev="20025" appversion="7.0.10">
+  <panorama id="node15" hideabout="1">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-4.46482" fov="129.808" pan="-1.13981"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="세대입구" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node15" datetime="2024:10:15 16:34:46" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="현관" skinid="ht_node" tilt="-30.86" id="Point01" target="" pan="-353.92" url="{node14}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-5.26841" fov="129.808" pan="-176.052"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="현관" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node14" datetime="2024:10:15 16:34:40" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="복도3" skinid="ht_node" tilt="-39.3" id="Point01" target="" pan="-180.26" url="{node4}" description=""/>
+      <hotspot title="세대입구" skinid="ht_node" tilt="-33.38" id="Point02" target="" pan="-355.18" url="{node15}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-10.3899" fov="129.808" pan="-14.5573"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="침실1" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node12" datetime="2024:10:15 16:34:30" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="부부욕실" skinid="ht_node" tilt="-22.03" id="Point01" target="" pan="-181.78" url="{node9}" description=""/>
+      <hotspot title="발코니1" skinid="ht_node" tilt="-21.6" id="Point02" target="" pan="-343.5" url="{node11}" description=""/>
+      <hotspot title="복도1" skinid="ht_node" tilt="-25.2" id="Point03" target="" pan="-224.25" url="{node6}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-7.53218" fov="129.808" pan="72.0984"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="부부욕실" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node9" datetime="2024:10:15 16:34:14" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="침실1" skinid="ht_node" tilt="-27.41" id="Point01" target="" pan="-186.3" url="{node12}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-5.73847" fov="129.808" pan="-12.2814"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="발코니1" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node11" datetime="2024:10:15 16:34:25" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="침실1" skinid="ht_node" tilt="-24.03" id="Point01" target="" pan="-196.02" url="{node12}" description=""/>
+      <hotspot title="실외기실" skinid="ht_node" tilt="-27.39" id="Point02" target="" pan="-88.41" url="{node10}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-4.10082" fov="129.808" pan="67.4073"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="실외기실" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node10" datetime="2024:10:15 16:34:19" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="발코니1" skinid="ht_node" tilt="-31.72" id="Point01" target="" pan="-210.35" url="{node11}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-6.27668" fov="129.808" pan="-6.13289"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="복도1" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node6" datetime="2024:10:15 16:33:58" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="침실3-2" skinid="ht_node" tilt="-35.38" id="Point01" target="" pan="-250.66" url="{node7}" description=""/>
+      <hotspot title="침실1" skinid="ht_node" tilt="-27.47" id="Point02" target="" pan="-99.67" url="{node12}" description=""/>
+      <hotspot title="복도2" skinid="ht_node" tilt="-29.01" id="Point03" target="" pan="-346.22" url="{node2}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-3.70961" fov="129.808" pan="2.61529"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="거실" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node3" datetime="2024:10:15 16:33:41" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="복도2" skinid="ht_node" tilt="-23.84" id="Point01" target="" pan="-162.62" url="{node2}" description=""/>
+      <hotspot title="복도1" skinid="ht_node" tilt="-21.77" id="Point02" target="" pan="-129.39" url="{node6}" description=""/>
+      <hotspot title="복도3" skinid="ht_node" tilt="-21.17" id="Point03" target="" pan="-221.21" url="{node4}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-2.30976" fov="129.808" pan="-10.7304"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="주방" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node1" datetime="2024:10:15 16:33:30" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="다용도실" skinid="ht_node" tilt="-41.6" id="Point01" target="" pan="-297.36" url="{node5}" description=""/>
+      <hotspot title="복도2" skinid="ht_node" tilt="-18.09" id="Point02" target="" pan="-193.01" url="{node2}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-6.01562" fov="129.808" pan="-89.2035"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="다용도실" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node5" datetime="2024:10:15 16:33:52" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="주방" skinid="ht_node" tilt="-27.81" id="Point01" target="" pan="-196.37" url="{node1}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-0.679365" fov="129.808" pan="173.026"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="복도2" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node2" datetime="2024:10:15 16:33:35" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="주방" skinid="ht_node" tilt="-20.23" id="Point01" target="" pan="-2.39" url="{node1}" description=""/>
+      <hotspot title="거실" skinid="ht_node" tilt="-21.16" id="Point02" target="" pan="-182.59" url="{node3}" description=""/>
+      <hotspot title="복도3" skinid="ht_node" tilt="-25.54" id="Point03" target="" pan="-129.76" url="{node4}" description=""/>
+      <hotspot title="복도1" skinid="ht_node" tilt="-26.46" id="Point04" target="" pan="-246.48" url="{node6}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-1.94332" fov="129.808" pan="-9.24906"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="복도3" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node4" datetime="2024:10:15 16:33:46" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="침실2" skinid="ht_node" tilt="-31.38" id="Point01" target="" pan="-269.49" url="{node13}" description=""/>
+      <hotspot title="복도2" skinid="ht_node" tilt="-32.57" id="Point02" target="" pan="-356.01" url="{node2}" description=""/>
+      <hotspot title="현관" skinid="ht_node" tilt="-44.43" id="Point03" target="" pan="-97.95" url="{node14}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-4.46846" fov="129.808" pan="2.76944"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="침실2" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node13" datetime="2024:10:15 16:34:35" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="복도3" skinid="ht_node" tilt="-24.41" id="Point01" target="" pan="-144.46" url="{node4}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-4.22854" fov="129.808" pan="-1.26272"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="침실3-1" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node8" datetime="2024:10:15 16:34:08" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="침실3-2" skinid="ht_node" tilt="-31.19" id="Point01" target="" pan="-144.29" url="{node7}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="2000" levelingpitch="0">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-2.14983" fov="129.808" pan="-2.13014"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata title="침실3-2" latitude="34.968947" comment="" heading="0" altitude="144.30" nodeid="node7" datetime="2024:10:15 16:34:03" source="" customnodeid="" copyright="" tags="2024년 10월 13일 올림픽파크포레온 418동 2806호" author="" info="" longitude="127.534283" description=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label background="1" textalpha="1" border="1" backgroundalpha="1" height="20" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" width="180" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot title="복도1" skinid="ht_node" tilt="-33.52" id="Point01" target="" pan="-168.75" url="{node6}" description=""/>
+      <hotspot title="침실3-1" skinid="ht_node" tilt="-29.4" id="Point02" target="" pan="-344.43" url="{node8}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" blendtime="1" blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" zoomout="0" delay="none" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomspeed="2"/>
+    <autorotate nodefilter="" returntohorizon="0.000" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" speed="0.020" enabled="1" delay="10.00" horizonfromdefview="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" speedwheel="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="올림픽파크포레온" copyright="" comment="" tags="" author="" description="418동 2806호"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
